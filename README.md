@@ -1,4 +1,6 @@
-# Thinking Machines - Enterprise Solutions Engineer Exam
+# HuRMI🤖 - The Human Resource Management Interface
+
+[Please visit this link for a publicly accessible deployment of the application](https://share.streamlit.io/hansxavier/hurmi/main.py)
 
 To run the application locally:
 
