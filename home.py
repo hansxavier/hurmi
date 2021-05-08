@@ -29,7 +29,7 @@ def app():
             st.markdown('number of managers')
         with users:
             st.title(str(checkins['user_id'].nunique()) )
-            st.markdown('unqiue employees')
+            st.markdown('unique employees')
     
     today = st.beta_container()
     today_date = checkins['date'].iloc[-1]
